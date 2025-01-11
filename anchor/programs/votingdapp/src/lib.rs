@@ -2,7 +2,7 @@
 
 use anchor_lang::{prelude::*, solana_program::system_program};
 
-declare_id!("coUnmi3oBUtwtd9fjeAvSsJssXh5A5xyPbhpewyzRVF");
+declare_id!("H9Pk8RhCbCAEcFJc9JtWAgLCJtTypNfddzGM5ppqoG34");
 
 #[program]
 pub mod votingdapp {
